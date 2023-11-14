@@ -1,7 +1,5 @@
 #-*-coding:euc-kr
 
-# 코딩 목적 : 나이키 홈페이지의 '용품' 카테고리 내 1페이지 상품명을 추출
-
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
